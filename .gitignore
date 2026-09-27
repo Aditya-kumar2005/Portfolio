@@ -1,0 +1,16 @@
+/.next/
+/out/
+.next/
+node_modules/
+.env
+.env.example
+.env.local
+*.log
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+*.md
+*.txt
+!README.md
+!robots.txt
